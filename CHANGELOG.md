@@ -1,5 +1,21 @@
 # Changelog
 
+## [6.0.0](https://github.com/stevearc/conform.nvim/compare/v5.9.0...v6.0.0) (2024-06-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* expand options for LSP formatting ([#456](https://github.com/stevearc/conform.nvim/issues/456))
+
+### Features
+
+* expand options for LSP formatting ([#456](https://github.com/stevearc/conform.nvim/issues/456)) ([9228b2f](https://github.com/stevearc/conform.nvim/commit/9228b2ff4efd58b6e081defec643bf887ebadff6))
+
+
+### Bug Fixes
+
+* deprecate typstfmt formatter ([#458](https://github.com/stevearc/conform.nvim/issues/458)) ([6e5d476](https://github.com/stevearc/conform.nvim/commit/6e5d476e97dbd251cc2233d42fd238c810404701))
+
 ## [5.9.0](https://github.com/stevearc/conform.nvim/compare/v5.8.0...v5.9.0) (2024-06-10)
 
 
